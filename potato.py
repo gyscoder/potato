@@ -14,11 +14,7 @@ except ImportError:
 import googlesearch
 import os
 import sys
-from pyfiglet import Figlet
 from datetime import datetime
-
-custom_fi = Figlet(font='epic')
-print(custom_fi.renderText('  potato  '))
 agente = googlesearch.get_random_user_agent()
 data = str(datetime.today())
 horario = data[0:19]
