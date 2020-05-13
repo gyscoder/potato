@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
 __title__ = 'potato'
-__version__ = '1.0.0'
+__version__ = '1.0.1'
 __author__ = '@gyscordia'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2020 by Me'
